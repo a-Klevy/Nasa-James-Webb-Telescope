@@ -1,5 +1,5 @@
 # Nasa-James-Webb-Telescope
-a 3D world game made for Nasa Space Apps cairo 2022. you can explore the solar system  and James Webb Telescope (JWST) in 3D. you can download the game here:https://klevy-always-solo.itch.io/nasa-james-webb.
+a 3D world game made for Nasa Space Apps cairo 2022. you can explore the solar system  and James Webb Telescope (JWST) in 3D. you can visualize the game here: https://klevy-always-solo.itch.io/nasa-james-webb.
 
 
  <img src = "https://user-images.githubusercontent.com/94145850/193465545-bf01f116-5a58-4853-9b98-3a77fd45263e.png" width="2400" height="600"/>
